@@ -74,7 +74,8 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-# !Content/Blueprints/*.uasset
+
+!Content/Blueprint/*.uasset
 # !Content/Blackboards/*.uasset
 # !Content/Blackboards/AI/*.uasset
-# !Content/ThirdPerson/Blueprints/*.uasset
+!Content/ThirdPerson/Blueprints/*.uasset
